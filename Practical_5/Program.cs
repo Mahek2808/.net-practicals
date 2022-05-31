@@ -11,7 +11,7 @@ namespace practical_5
             try
             {
                 
-                for (int i = 0; i < arr[4]; i++)
+                for (int i = 0; i < 4; i++)
                 {
                     Console.WriteLine(arr[i]);
                 }
